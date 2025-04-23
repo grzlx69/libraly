@@ -1,6 +1,6 @@
 # Онлайн-библиотека
 Программа загружает установленные книги из папки books/, и картинку к этим книгам из папки images/ на [сайт](https://grzlx69.github.io/libraly/pages/index1.html)
-![сайт](https://dvmn.org/media/lessons/qz65h.png)
+![сайт](https://i.imgur.com/7LQxeYU.png)
 
 ## Установка
 Для начала сделайте fork [репозитория с библиотекой](https://github.com/grzlx69/libraly) и сохраните себе на компьютер. Python3 уже должен быть у вас установлен.
