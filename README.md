@@ -6,10 +6,16 @@
 Для начала сделайте fork [репозитория с библиотекой](https://github.com/grzlx69/libraly) и сохраните себе на компьютер. Python3 уже должен быть у вас установлен.
 Если же у вас его нет -> следуйте рекомендациям [установки python на компьютер](https://sky.pro/media/kak-ustanovit-python/). Затем используйте pip (или pip3) для установки зависимостей.
 
-`pip install -r requirements.txt`
+```
+pip install -r requirements.txt
+```
+
 ## Запуск
 Для запуска программы используйте команду в папке проекта:
-`python render_website.py`
+
+```
+python render_website.py
+```
 
 Протестировать запущенный сайт можно по локальной ссылке проекта:
 
